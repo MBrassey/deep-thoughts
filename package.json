@@ -1,0 +1,29 @@
+{
+  "name": "deep-thoughts",
+  "version": "1.0.0",
+  "description": "MERN stack social network",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "if-env NODE_ENV=production && npm run start:prod || npm run start:dev",
+    "start:prod": "cd server && npm start",
+    "start:dev": "concurrently \"cd server && npm run watch\" \"cd client && npm start\"",
+    "install": "cd server && npm i && cd ../client && npm i",
+    "seed": "cd server && npm run seed"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MBrassey/deep-thoughts.git"
+  },
+  "author": "Matt Brassey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MBrassey/deep-thoughts/issues"
+  },
+  "homepage": "https://github.com/MBrassey/deep-thoughts#readme",
+  "dependencies": {
+    "if-env": "^1.0.4"
+  },
+  "devDependencies": {
+    "concurrently": "^5.3.0"
+  }
+}
