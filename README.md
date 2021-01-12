@@ -12,8 +12,8 @@ The backend application is deployed live @Heroku utilizing MongoDB Atlas.
 - [x] [Implement GraphQL queries and navigation for other pages](https://github.com/MBrassey/deep-thoughts/issues/4)
 - [x] [Client-side login/sign up](https://github.com/MBrassey/deep-thoughts/issues/5)
 - [x] [Implement user-based mutations](https://github.com/MBrassey/deep-thoughts/issues/6)
-- [x] [Finish up & Deploy](https://github.com/MBrassey/deep-thoughts/issues/5)
-- [x] [Create Readme](https://github.com/MBrassey/deep-thoughts/issues/7)
+- [x] [Finish up & Deploy](https://github.com/MBrassey/deep-thoughts/issues/7)
+- [x] [Create Readme](https://github.com/MBrassey/deep-thoughts/issues/8)
 
 #### Requirements
 
