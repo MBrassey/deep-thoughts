@@ -1,6 +1,6 @@
 ## deep-thoughts
 
-The backend application is deployed live @Heroku utilizing MongoDB Atlas.
+MERN (MongoDB, Express.js, React, and Node.js) stack social network. SPA (Single Page Application) utilizing react router, GraphQL and JWT (JSON Web Token) authentication. The backend application is deployed live @Heroku utilizing MongoDB Atlas.
 
 [![licensebadge](https://img.shields.io/badge/license-CC0_1.0_Universal-blue)](https://github.com/MBrassey/deep-thoughts/blob/main/LICENSE)
 
@@ -42,7 +42,7 @@ The backend application is deployed live @Heroku utilizing MongoDB Atlas.
 
 
 > Single Thought with Reactions
-> [<img src="./img/Preview2.png">](https://mbrassey-deep-thoughts.herokuapp.com/thought/5ffd15d2bf582e0ba2b89efe)
+> [<img src="./img/Preview2.png">](https://mbrassey-deep-thoughts.herokuapp.com/)
 
 > Setup
 > [<img src="./img/Setup.gif">](https://deep-thoughts-mbrassey.herokuapp.com/)
