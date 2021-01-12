@@ -28,7 +28,7 @@ MERN (MongoDB, Express.js, React, and Node.js) stack social network. SPA (Single
 
 #### Usage
 
-    npm seed
+    npm run seed
     npm start
     browse to http://localhost:3000/
 
