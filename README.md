@@ -37,6 +37,10 @@ The backend application is deployed live @Heroku utilizing MongoDB Atlas.
 > Main Feed
 > [<img src="./img/Preview.png">](https://deep-thoughts-mbrassey.herokuapp.com/)
 
+> User Dashboard (LoggedIn)
+> [<img src="./img/Preview3.png">](https://deep-thoughts-mbrassey.herokuapp.com/)
+
+
 > Single Thought with Reactions
 > [<img src="./img/Preview2.png">](https://mbrassey-deep-thoughts.herokuapp.com/thought/5ffd15d2bf582e0ba2b89efe)
 
