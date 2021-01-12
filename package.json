@@ -1,7 +1,7 @@
 {
   "name": "deep-thoughts",
   "version": "1.0.0",
-  "description": "MERN stack social network",
+  "description": "MERN (MongoDB, Express.js, React, and Node.js) stack social network",
   "main": "server/server.js",
   "scripts": {
     "start": "if-env NODE_ENV=production && npm run start:prod || npm run start:dev",
