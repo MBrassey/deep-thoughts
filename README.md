@@ -34,8 +34,11 @@ The backend application is deployed live @Heroku utilizing MongoDB Atlas.
 
 <h6><p align="right">:cyclone: Click the image(s) below to view the live <a id="Screenshots" href="https://deep-thoughts-mbrassey.herokuapp.com/">webapplication</a></p></h6>
 
-> Preview
+> Main Feed
 > [<img src="./img/Preview.png">](https://deep-thoughts-mbrassey.herokuapp.com/)
+
+> Single Thought with Reactions
+> [<img src="./img/Preview2.png">](https://mbrassey-deep-thoughts.herokuapp.com/thought/5ffd15d2bf582e0ba2b89efe)
 
 > Setup
 > [<img src="./img/Setup.gif">](https://deep-thoughts-mbrassey.herokuapp.com/)
