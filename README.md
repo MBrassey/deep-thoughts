@@ -47,8 +47,8 @@ The backend application is deployed live @Heroku utilizing MongoDB Atlas.
 > Setup
 > [<img src="./img/Setup.gif">](https://deep-thoughts-mbrassey.herokuapp.com/)
 
-> GraphQL
-> [<img src="./img/GraphQL.gif">](https://deep-thoughts-mbrassey.herokuapp.com/api/users/)
+> GraphQL Queries
+> [<img src="./img/GraphQL.gif">](https://deep-thoughts-mbrassey.herokuapp.com/)
 
 #### Questions
 
