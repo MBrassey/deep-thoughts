@@ -1,3 +1,13 @@
+<p align="center">
+    <img src="https://img.shields.io/badge/javascript-yellow" />
+    <img src="https://img.shields.io/badge/mongoDB-purple" />
+    <img src="https://img.shields.io/badge/express-red" />
+    <img src="https://img.shields.io/badge/react-green" />
+    <img src="https://img.shields.io/badge/node-gray" />
+    <img src="https://img.shields.io/badge/graphQL-yellow" />
+    <img src="https://img.shields.io/badge/apollo-blue" />
+</p>
+
 ## deep-thoughts
 
 MERN (MongoDB, Express.js, React, and Node.js) stack social network. SPA (Single Page Application) utilizing react router, GraphQL and JWT (JSON Web Token) authentication. The backend application is deployed live @Heroku utilizing MongoDB Atlas.
