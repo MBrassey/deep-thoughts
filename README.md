@@ -32,23 +32,23 @@ MERN (MongoDB, Express.js, React, and Node.js) stack social network. SPA (Single
     npm start
     browse to http://localhost:3000/
 
-<h6><p align="right">:cyclone: Click the image(s) below to view the live <a id="Screenshots" href="https://deep-thoughts-mbrassey.herokuapp.com/">webapplication</a></p></h6>
+<h6><p align="right">:cyclone: Click the image(s) below to view the live <a id="Screenshots" href="https://mbrassey-deep-thoughts.herokuapp.com/">webapplication</a></p></h6>
 
 > Main Feed
-> [<img src="./img/Preview.png">](https://deep-thoughts-mbrassey.herokuapp.com/)
+> [<img src="./img/Preview.png">](https://mbrassey-deep-thoughts.herokuapp.com/)
 
 > User Dashboard (LoggedIn)
-> [<img src="./img/Preview3.png">](https://deep-thoughts-mbrassey.herokuapp.com/)
+> [<img src="./img/Preview3.png">](https://mbrassey-deep-thoughts.herokuapp.com/)
 
 
 > Single Thought with Reactions
 > [<img src="./img/Preview2.png">](https://mbrassey-deep-thoughts.herokuapp.com/)
 
 > Setup
-> [<img src="./img/Setup.gif">](https://deep-thoughts-mbrassey.herokuapp.com/)
+> [<img src="./img/Setup.gif">](https://mbrassey-deep-thoughts.herokuapp.com/)
 
 > GraphQL Queries
-> [<img src="./img/GraphQL.gif">](https://deep-thoughts-mbrassey.herokuapp.com/)
+> [<img src="./img/GraphQL.gif">](https://mbrassey-deep-thoughts.herokuapp.com/)
 
 #### Questions
 
