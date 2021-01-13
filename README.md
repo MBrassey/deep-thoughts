@@ -3,7 +3,6 @@
     <img src="https://img.shields.io/badge/mongoDB-9cf" />
     <img src="https://img.shields.io/badge/express-9cf" />
     <img src="https://img.shields.io/badge/react-9cf" />
-    <img src="https://img.shields.io/badge/node-9cf" />
     <img src="https://img.shields.io/badge/graphQL-9cf" />
     <img src="https://img.shields.io/badge/apollo-9cf" />
 </p>
