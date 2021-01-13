@@ -1,11 +1,11 @@
 <p align="center">
-    <img src="https://img.shields.io/badge/javascript-yellow" />
-    <img src="https://img.shields.io/badge/mongoDB-purple" />
-    <img src="https://img.shields.io/badge/express-red" />
-    <img src="https://img.shields.io/badge/react-green" />
-    <img src="https://img.shields.io/badge/node-gray" />
-    <img src="https://img.shields.io/badge/graphQL-yellow" />
-    <img src="https://img.shields.io/badge/apollo-#394B59" />
+    <img src="https://img.shields.io/badge/javascript-9cf" />
+    <img src="https://img.shields.io/badge/mongoDB-9cf" />
+    <img src="https://img.shields.io/badge/express-9cf" />
+    <img src="https://img.shields.io/badge/react-9cf" />
+    <img src="https://img.shields.io/badge/node-9cf" />
+    <img src="https://img.shields.io/badge/graphQL-9cf" />
+    <img src="https://img.shields.io/badge/apollo-9cf" />
 </p>
 
 ## deep-thoughts
