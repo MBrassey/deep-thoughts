@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/react-green" />
     <img src="https://img.shields.io/badge/node-gray" />
     <img src="https://img.shields.io/badge/graphQL-yellow" />
-    <img src="https://img.shields.io/badge/apollo-394B59" />
+    <img src="https://img.shields.io/badge/apollo-#394B59" />
 </p>
 
 ## deep-thoughts
